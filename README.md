@@ -3,4 +3,4 @@
 
 <p> Join our 30 Days of Python Challenge to embark on a comprehensive journey through Python programming, with daily tasks and lessons that will take you from a beginner to a confident Python developer in just one month. Each day, you'll tackle a new concept, build real-world projects, and solidify your Python skills, ensuring you're well-prepared for a career in software development.</p>
 
-<h1>"Check out [https://www.w3resource.com/python-exercises/] for a comprehensive collection of Python exercises to enhance your coding skills." </h1>
+<h1>"Check out [https://www.w3resource.com/python-exercises/] for a comprehensive collection of Python exercises to enhance your coding skills. There is a concept each section question exercise you can practice" </h1>
